@@ -2,4 +2,4 @@
 Github tutorial Exercise
 
 
-mow i am aditing readme branch again. 
+now i am aditing readme branch again. 
