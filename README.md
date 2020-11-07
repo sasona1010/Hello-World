@@ -2,5 +2,4 @@
 Github tutorial Exercise
 
 
-now i am aditing readme branch again. 
-Add line to the code
+now i am aditing readme branch again
